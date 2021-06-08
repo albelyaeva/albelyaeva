@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @albelyaeva
+- 👀 I’m interested in frontend and python
+- 🌱 I’m currently learning react, ember
+- 📫 How to reach me on telegram: @albelyaeva, email: al.belyaeva1@gmail.com
