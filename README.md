@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @albelyaeva (Aleksandra)
 - 👀 Interested in web development 
-- 🌱 Creating projects using React, Vue.js, Python
+- 🌱 Building projects using React, Vue.js, Python
 - 📫 How to reach me on telegram: @albelyaeva, email: al.belyaeva1@gmail.com
