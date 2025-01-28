@@ -14,8 +14,8 @@
 
 ## 📂 Featured Projects
 1️⃣ [📸 AI-Powered Image Recognition App](https://github.com/albelyaeva/image-recognition-app)  
-2️⃣ [📊 Financial Data Dashboard](https://github.com/albelyaeva/financial-dashboard)  
-3️⃣ [🎨 Online Portfolio Website](https://github.com/albelyaeva/photo-portfolio)  
+2️⃣ [📊 Financial Data Dashboard](https://github.com/albelyaeva/investment-calculator)  
+3️⃣ [🎨 Online Portfolio Website](https://aleksandra-cv.vercel.app/)  
 
 ## 🌱 What I’m Learning
 - Advanced AI: **YOLO for Object Detection, NLP Models**
