@@ -13,7 +13,7 @@
 - Languages: **English, Russian, German**
 
 ## 📂 Featured Projects
-1️⃣ [📸 AI-Powered Image Recognition App](https://github.com/albelyaeva/image-recognition-app)  
+1️⃣ [📸 AI-Powered Image Recognition App](https://ai-image-recognition.vercel.app/)  
 2️⃣ [📊 Financial Data Dashboard](https://github.com/albelyaeva/investment-calculator)  
 3️⃣ [🎨 Online Portfolio Website](https://aleksandra-cv.vercel.app/)  
 
