@@ -14,7 +14,7 @@
 
 ## 📂 Featured Projects
 1️⃣ [📸 AI-Powered Image Recognition App](https://ai-image-recognition.vercel.app/)  
-2️⃣ [📊 Financial Data Dashboard](https://github.com/albelyaeva/investment-calculator)  
+2️⃣ [👽 Space Rocket Game](https://portfolio-game-q3ok7d3u0-albelyaevas-projects.vercel.app/)  
 3️⃣ [🎨 Online Portfolio Website](https://aleksandra-cv.vercel.app/)  
 
 ## 🌱 What I’m Learning
