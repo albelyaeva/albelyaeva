@@ -15,7 +15,7 @@
 ## 📂 Featured Projects
 1 [📸 AI-Powered Image Recognition App](https://ai-image-recognition.vercel.app/)  
 2 [👽 Space Rocket Game](https://portfolio-game-q3ok7d3u0-albelyaevas-projects.vercel.app/)  
-3 [🎨 Online Portfolio Website](https://aleksandra-cv.vercel.app/) 
+3 [🎨 Online Portfolio Website](https://aleksandra-cv.vercel.app/)  
 4 [🐝 Python-based web scraper. Automatically extracts product details from e-commerce websites and saves the data in excel and google sheets](https://github.com/albelyaeva/web-scraper)
 
 ## 🌱 What I’m Learning
